@@ -287,9 +287,6 @@ concoct/concoct:
 concoct/concoctcoveragetable:
   - modules/nf-core/concoct/concoctcoveragetable/**
   - tests/modules/nf-core/concoct/concoctcoveragetable/**
-concoct/cutupfasta:
-  - modules/nf-core/concoct/cutupfasta/**
-  - tests/modules/nf-core/concoct/cutupfasta/**
 concoct/extractfastabins:
   - modules/nf-core/concoct/extractfastabins/**
   - tests/modules/nf-core/concoct/extractfastabins/**
@@ -1077,9 +1074,6 @@ msisensorpro/scan:
 mtnucratio:
   - modules/nf-core/mtnucratio/**
   - tests/modules/nf-core/mtnucratio/**
-multivcfanalyzer:
-  - modules/nf-core/multivcfanalyzer/**
-  - tests/modules/nf-core/multivcfanalyzer/**
 mummer:
   - modules/nf-core/mummer/**
   - tests/modules/nf-core/mummer/**
